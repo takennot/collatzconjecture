@@ -1,0 +1,2 @@
+# collatzconjecture
+Collatz Conjecture C#
